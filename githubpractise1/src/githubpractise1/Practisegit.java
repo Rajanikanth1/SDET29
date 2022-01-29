@@ -10,7 +10,7 @@ public class Practisegit {
 public void practisegit()
 {
 	System.out.println("user 1 first commit");
-	
+	System.out.println("new user first commit");
 	}
 	
 	
