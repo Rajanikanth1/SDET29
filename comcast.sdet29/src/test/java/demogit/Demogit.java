@@ -13,7 +13,12 @@ public class Demogit {
 		
 		System.out.println("hi this is user1 second commit");
 		
+
 		System.out.println("hi this is user1 third commit");
+
+		System.out.println("hi this is user2 second commit");
+		
+
 	}
 	
 	
